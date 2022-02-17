@@ -1,5 +1,5 @@
 ---
-description: Practicing 日本語 and Scottish Gaelic on [Duolingo](https://www.duolingo.com/profile/RichardLitt)
+description: Eating lunch
 ---
 
 What is Richard focusing on?

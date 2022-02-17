@@ -1,2 +1,2 @@
-- Practicing 日本語 and Scottish Gaelic on [Duolingo](https://www.duolingo.com/profile/RichardLitt)
+- Eating lunch
 - Dealing with an old invoice I need to pay, and credit cards
