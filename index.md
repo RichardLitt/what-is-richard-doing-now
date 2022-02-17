@@ -1,5 +1,5 @@
 ---
-description: Eating lunch
+description: Dealing with an old invoice I need to pay, and credit cards
 ---
 
 What is Richard focusing on?

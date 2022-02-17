@@ -1,2 +1,1 @@
-- Eating lunch
 - Dealing with an old invoice I need to pay, and credit cards
