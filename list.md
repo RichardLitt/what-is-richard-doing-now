@@ -1,1 +1,1 @@
-- Adding metadata
+Ordering shirts for the Bonnie Prince Charlie Trail Expedition
