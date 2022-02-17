@@ -2,7 +2,7 @@
 
 # This is necessary because Liquid doesn't work the way I want.
 
-TASK=$(cat list.md | head -n1)
+TASK=$(cat todo.md | head -n1)
 TASK=${TASK#"- "}
 
 cat > index.md << EOM
@@ -14,7 +14,7 @@ What is Richard focusing on?
 
 In this order:
 
-{% include_relative list.md %}
+{% include_relative todo.md %}
 EOM
 
 echo 'Automatically generated index.md.'
