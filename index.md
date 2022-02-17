@@ -1,5 +1,5 @@
 ---
-description: Dealing with an old invoice I need to pay, and credit cards
+description: Fixing a hugo issue for a friend
 ---
 
 What is Richard focusing on?

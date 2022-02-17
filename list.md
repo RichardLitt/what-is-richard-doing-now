@@ -1,1 +1,3 @@
-- Dealing with an old invoice I need to pay, and credit cards
+- Fixing a hugo issue for a friend
+- Looking into Pikapods
+- Following up about https://digitalinfrastructure.fund 
