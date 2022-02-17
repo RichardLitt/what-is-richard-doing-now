@@ -32,6 +32,10 @@ Talk to me. WhatsApp, Signal, Twitter, email. This can be a collaborative thing.
 
 Because I like this way.
 
+*Photo attribution?*
+
+Photo by <a href="https://unsplash.com/@amr_taha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amr Taha™</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 ## Contribute
 
 Feel free to suggest stufff.

@@ -1,20 +1,24 @@
-#textbox {
-  height: 80%;
-  text-align: center;
-  padding: 0 20px;
-  margin: 0px auto;
+.container {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  /* align horizontal */
   align-items: center;
-  /* align vertical */
+  justify-content: center;
+}
+.center {
   color: green;
+  padding: 0 20px;
+  text-align: center;
+  margin: 10% auto;
+  width: 90%;
+  height: 50%;
 }
 p {
   color: black;
   font-style: italic;
 }
 h1 {
-  font-size: 4em;
+  font-size: 4vw;
+}
+.footer-col-wrapper {
+  margin: 0px auto;
+  text-align: center;
 }
