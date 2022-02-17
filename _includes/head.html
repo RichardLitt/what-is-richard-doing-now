@@ -7,7 +7,7 @@
   <meta name="twitter:site" content="@richlitt">
   <meta name="twitter:creator" content="@richlitt">
   <meta name="twitter:title" content="{{ site.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{{ page.description | markdownify | strip_html | truncatewords: 50 | strip }}">
   <meta name="twitter:image" content="https://richardlitt.github.io/what-is-richard-doing-now//logo.jpg">
   <meta name="twitter:image:alt" content="An image of coffee and a desk with {{ site.title}} on it">
   <link rel="stylesheet" type="text/css" href="style.css">
