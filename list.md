@@ -1,5 +1,2 @@
-- Ordering shirts for [the Bonnie Prince Charlie Trail Expedition](http://bpctrail.co.uk/)
-- Setting up a simple site on http://bpctrail.co.uk/
-- Updating the script for the [Norwich Bird Quest](https://vtecostudies.org/wildlife/wildlife-watching/vermont-county-bird-quest/norwich-quest-2022/) and making a git submodule out of [ebird-ext](https://github.com/RichardLitt/birdinginvermont.com/tree/main/src/ebird-ext)
 - Practicing 日本語 and Scottish Gaelic on [Duolingo](https://www.duolingo.com/profile/RichardLitt)
 - Dealing with an old invoice I need to pay, and credit cards

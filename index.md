@@ -1,5 +1,5 @@
 ---
-description: Ordering shirts for [the Bonnie Prince Charlie Trail Expedition](http://bpctrail.co.uk/)
+description: Practicing 日本語 and Scottish Gaelic on [Duolingo](https://www.duolingo.com/profile/RichardLitt)
 ---
 
 What is Richard focusing on?
