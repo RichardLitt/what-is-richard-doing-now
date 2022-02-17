@@ -1,2 +1,3 @@
-- Looking into Pikapods
 - Following up about https://digitalinfrastructure.fund 
+- Check iNat entries and upload some to eBird
+- SustainOSS emails
