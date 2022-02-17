@@ -1,3 +1,2 @@
-- Fixing a hugo issue for a friend
 - Looking into Pikapods
 - Following up about https://digitalinfrastructure.fund 

@@ -1,5 +1,5 @@
 ---
-description: Fixing a hugo issue for a friend
+description: Looking into Pikapods
 ---
 
 What is Richard focusing on?
