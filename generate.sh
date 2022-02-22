@@ -4,6 +4,7 @@
 
 TASK=$(cat todo.md | head -n1)
 TASK=${TASK#"- "}
+TASKS=$(cat todo.md | tail -n +2)
 
 cat > index.md << EOM
 ---
@@ -12,9 +13,12 @@ description: $TASK
 
 What is Richard focusing on?
 
-In this order:
+## $TASK
 
-{% include_relative todo.md %}
+Followed by:
+
+$TASKS
+
 EOM
 
 echo 'Automatically generated index.md.'
