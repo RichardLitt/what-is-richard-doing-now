@@ -1,3 +1,3 @@
-- Following up about https://digitalinfrastructure.fund
+- Managing the https://digitalinfrastructure.fund community @diginf
 - Check iNat entries and upload some to eBird
 - SustainOSS emails
