@@ -1,11 +1,11 @@
 ---
-description: SustainOSS emails
-project: sustain
+description: Managing the https://digitalinfrastructure.fund community
+project: diginf
 ---
 
 What is Richard focusing on?
 
-## SustainOSS emails
+## Managing the https://digitalinfrastructure.fund community
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,6 +14,6 @@ What is Richard focusing on?
 
 This will be followed by:
 
+- SustainOSS emails
 - Check iNat entries and upload some to eBird
-- Managing the https://digitalinfrastructure.fund community
 
