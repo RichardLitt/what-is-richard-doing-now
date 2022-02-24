@@ -1,11 +1,11 @@
 ---
-description: Managing the https://digitalinfrastructure.fund community
-project: diginf
+description: Sleeping
+project: 
 ---
 
 What is Richard focusing on?
 
-## Managing the https://digitalinfrastructure.fund community
+## Sleeping
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,6 +14,5 @@ What is Richard focusing on?
 
 This will be followed by:
 
-- SustainOSS emails
-- Check iNat entries and upload some to eBird
+
 

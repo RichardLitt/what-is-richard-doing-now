@@ -1,3 +1,1 @@
-- Managing the https://digitalinfrastructure.fund community @diginf
-- SustainOSS emails
-- Check iNat entries and upload some to eBird
+- Sleeping
