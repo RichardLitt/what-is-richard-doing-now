@@ -1,11 +1,11 @@
 ---
-description: Sleeping
-project: 
+description: Working on the Sustain Code of Conduct
+project: sustain
 ---
 
 What is Richard focusing on?
 
-## Sleeping
+## Working on the Sustain Code of Conduct
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
