@@ -1,11 +1,11 @@
 ---
-description: Working on the Sustain Code of Conduct
-project: sustain
+description: Running in the Pentlands
+project: 
 ---
 
 What is Richard focusing on?
 
-## Working on the Sustain Code of Conduct
+## Running in the Pentlands
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
