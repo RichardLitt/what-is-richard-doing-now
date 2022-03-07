@@ -1,11 +1,11 @@
 ---
-description: Making dinner
+description: Update Birding in Vermont with more recent town counts
 project: 
 ---
 
 What is Richard focusing on?
 
-## Making dinner
+## Update Birding in Vermont with more recent town counts
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,5 +14,6 @@ What is Richard focusing on?
 
 This will be followed by:
 
-
+- Go to sleep
+- Run in the Pentlands
 
