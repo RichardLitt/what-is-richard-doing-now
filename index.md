@@ -1,11 +1,11 @@
 ---
-description: Going to look for the Ring-billed Gull 
+description: Making dinner
 project: 
 ---
 
 What is Richard focusing on?
 
-## Going to look for the Ring-billed Gull 
+## Making dinner
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
