@@ -1,11 +1,11 @@
 ---
-description: Running in the Pentlands
+description: Going to look for the Ring-billed Gull 
 project: 
 ---
 
 What is Richard focusing on?
 
-## Running in the Pentlands
+## Going to look for the Ring-billed Gull 
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
