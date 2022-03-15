@@ -1,11 +1,11 @@
 ---
-description: Update Birding in Vermont with more recent town counts
+description: Listening to [Lankum](http://lankumdublin.com/) and doing small tasks
 project: 
 ---
 
 What is Richard focusing on?
 
-## Update Birding in Vermont with more recent town counts
+## Listening to [Lankum](http://lankumdublin.com/) and doing small tasks
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,6 +14,5 @@ What is Richard focusing on?
 
 This will be followed by:
 
-- Go to sleep
-- Run in the Pentlands
+
 
