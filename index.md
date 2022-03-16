@@ -1,6 +1,6 @@
 ---
-description: Finishing up the SustainOSS Code of Conduct
-project: 
+description: A place where I announce in public what I am doing at the moment.
+project: sustain
 ---
 
 What is Richard focusing on?

@@ -26,7 +26,7 @@ fi
 
 cat > index.md << EOM
 ---
-description: $TASK
+description: A place where I announce in public what I am doing at the moment.
 project: $PROJECT
 ---
 

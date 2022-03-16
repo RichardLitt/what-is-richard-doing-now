@@ -1,2 +1,2 @@
-- Finishing up the SustainOSS Code of Conduct @sustainoss
+- Finishing up the SustainOSS Code of Conduct @sustain
 - Sending invoices for February
