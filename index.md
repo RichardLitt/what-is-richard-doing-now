@@ -1,11 +1,11 @@
 ---
-description: Checking my Nocturnal Flight Call recordings from last night
+description: Finishing up the SustainOSS Code of Conduct
 project: 
 ---
 
 What is Richard focusing on?
 
-## Checking my Nocturnal Flight Call recordings from last night
+## Finishing up the SustainOSS Code of Conduct
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,6 +14,5 @@ What is Richard focusing on?
 
 This will be followed by:
 
-- Finishing up the SustainOSS Code of Conduct @sustainoss
 - Sending invoices for February
 
