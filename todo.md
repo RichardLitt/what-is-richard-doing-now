@@ -1,1 +1,3 @@
-- Listening to [Lankum](http://lankumdublin.com/) and doing small tasks
+- Checking my Nocturnal Flight Call recordings from last night
+- Finishing up the SustainOSS Code of Conduct @sustainoss
+- Sending invoices for February

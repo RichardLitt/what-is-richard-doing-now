@@ -1,11 +1,11 @@
 ---
-description: Listening to [Lankum](http://lankumdublin.com/) and doing small tasks
+description: Checking my Nocturnal Flight Call recordings from last night
 project: 
 ---
 
 What is Richard focusing on?
 
-## Listening to [Lankum](http://lankumdublin.com/) and doing small tasks
+## Checking my Nocturnal Flight Call recordings from last night
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,5 +14,6 @@ What is Richard focusing on?
 
 This will be followed by:
 
-
+- Finishing up the SustainOSS Code of Conduct @sustainoss
+- Sending invoices for February
 
