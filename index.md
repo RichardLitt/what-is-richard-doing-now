@@ -1,11 +1,11 @@
 ---
 description: A place where I announce in public what I am doing at the moment.
-project: sustain
+project: 
 ---
 
 What is Richard focusing on?
 
-## Finishing up the SustainOSS Code of Conduct
+## Every email from this week
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
@@ -14,5 +14,5 @@ What is Richard focusing on?
 
 This will be followed by:
 
-- Sending invoices for February
+
 

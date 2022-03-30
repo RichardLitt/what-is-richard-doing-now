@@ -1,2 +1,1 @@
-- Finishing up the SustainOSS Code of Conduct @sustain
-- Sending invoices for February
+- Every email from this week
