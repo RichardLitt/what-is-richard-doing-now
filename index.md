@@ -1,11 +1,11 @@
 ---
 description: A place where I announce in public what I am doing at the moment.
-project: diginf
+project: 
 ---
 
 What is Richard focusing on?
 
-## Checking in on all of the Digital Infrastructure peeps
+## Nothing. Eating dinner. Reading a book. Not working.
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}

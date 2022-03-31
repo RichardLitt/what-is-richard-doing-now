@@ -1,1 +1,1 @@
-- Checking in on all of the Digital Infrastructure peeps @diginf
+- Nothing. Eating dinner. Reading a book. Not working.
