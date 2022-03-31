@@ -39,11 +39,16 @@ What is Richard focusing on?
   Read more about <a href="https://burntfen.com/projects/{{ page.project }}">{{ project.title }}</a>.
 {% endif %}
 
+EOM
+
+
+if [[ $TASKS != '' ]]; then
+  cat >> index.md << EOM
 This will be followed by:
 
 $TASKS
-
 EOM
+fi
 
 echo 'Automatically generated index.md.'
 

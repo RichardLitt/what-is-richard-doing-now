@@ -12,7 +12,3 @@ What is Richard focusing on?
   Read more about <a href="https://burntfen.com/projects/{{ page.project }}">{{ project.title }}</a>.
 {% endif %}
 
-This will be followed by:
-
-
-
