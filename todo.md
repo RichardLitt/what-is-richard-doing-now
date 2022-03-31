@@ -1,1 +1,1 @@
-- Every email from this week
+- Checking in on all of the Digital Infrastructure peeps @diginf
