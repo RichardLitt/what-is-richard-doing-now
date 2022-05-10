@@ -42,4 +42,4 @@ Feel free to suggest stufff.
 
 ## License
 
-All rights reserved. © Richard Littauer 2022. Why not open source? Because is there a reason to have it be open source? I'm not monetizing it or doing anything with it. Will change copyright to 'contributors' if anyone submits a PR.
+MIT. See [LICENSE](LICENSE). 
