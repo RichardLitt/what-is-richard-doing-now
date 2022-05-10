@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Nothing. Eating dinner. Reading a book. Not working.
+## Unpacking.
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
