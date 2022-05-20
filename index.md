@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Unpacking.
+## Sitting and thinking about youth and work and the nature of peace, while having a Cortado in Edinburgh next to Old College
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
