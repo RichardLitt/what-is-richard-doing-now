@@ -1,1 +1,1 @@
-- Updating the OSC docs
+- Announcing the next OSC community call

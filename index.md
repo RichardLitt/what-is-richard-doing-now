@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Updating the OSC docs
+## Announcing the next OSC community call
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
