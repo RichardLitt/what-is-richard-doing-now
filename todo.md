@@ -1,1 +1,1 @@
-- Announcing the next OSC community call
+- Clearing his desk of things. 
