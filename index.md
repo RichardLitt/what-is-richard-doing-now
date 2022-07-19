@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Clearing his desk of things. 
+## Emails
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
