@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Emails
+## Eating Banana Bread with Emily
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
