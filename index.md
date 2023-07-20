@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Eating Banana Bread with Emily
+## Sleeping in preparation for finding the Hooded Warbler in Windsor, VT
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}

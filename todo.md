@@ -1,1 +1,1 @@
-- Eating Banana Bread with Emily
+- Sleeping in preparation for finding the Hooded Warbler in Windsor, VT
