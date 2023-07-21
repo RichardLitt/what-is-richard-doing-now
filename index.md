@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Sleeping in preparation for finding the Hooded Warbler in Windsor, VT
+## Sustain Podcast emails, all seven of them.
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
