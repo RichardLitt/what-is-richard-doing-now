@@ -38,7 +38,7 @@ Photo by <a href="https://unsplash.com/@amr_taha?utm_source=unsplash&utm_medium=
 
 ## Contribute
 
-Feel free to suggest stufff.
+Feel free to suggest stuff.
 
 ## License
 
