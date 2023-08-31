@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Sustain Podcast emails, all seven of them.
+## Building and working on an excellent podcast for Sustain
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
