@@ -5,7 +5,7 @@ project:
 
 What is Richard focusing on?
 
-## Building and working on an excellent podcast for Sustain
+## Reading "Green Mountain Club Nature Guide to Vermont's Long Trail"
 
 {% if page.project %}
   {% assign project = site.data.projects[page.project] %}
